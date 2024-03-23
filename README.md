@@ -1,5 +1,5 @@
 # Bookpad-TextEditor-Python
-A super basic text file editor
+A super basic text file editor made in Tkinter
 
 # Editor Enviroment
 
