@@ -1,0 +1,8 @@
+Bookpad V1.0.0
+~~~~~~~~~~~~~~~~~~
+Made by Giorgos Ps
+~~~~~~~~~~~~~~~~~~
+Click on the Book you want to load.
+When you finish writing / editing press save
+~~~~~~~~~~~~~~~~~~
+(You can overwrite these texts)
